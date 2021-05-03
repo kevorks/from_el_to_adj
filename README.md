@@ -1,5 +1,5 @@
 # from_el_to_adj
-Function to convert an edgelist to adjacency matrix
+Function to convert an edgelist to adjacency matrix for network data analysis.
 
 ```r
 # read for instance the facebook data
